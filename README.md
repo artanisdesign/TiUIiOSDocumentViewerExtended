@@ -4,7 +4,7 @@ The project allows you to customise the "title" property of the documentViewer W
 
 
 ## Download the compiled release
-* [dist](https://github.com/artanisdesign/TiUIVisualEffectView/tree/master/dist)
+* [dist](https://github.com/artanisdesign/TiUIiOSDocumentViewerExtended/tree/master/dist)
 
 ## or build from source
 If you are building from source you will need to do the following:
