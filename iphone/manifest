@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiDocumentViewerExtended
+author: Artanis
+license: Specify your license
+copyright: Copyright (c) 2014 by artanis
+
+# these should not be edited
+name: TiDocumentViewerExtended
+moduleid: com.artanisdesign.documentviewerextended
+guid: 37aa2abd-af22-4b8a-9abc-58f97682bd2b
+platform: iphone
+minsdk: 3.4.1.GA
